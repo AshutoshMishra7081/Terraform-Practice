@@ -1,11 +1,6 @@
 ## Terraform Learning Codes
 
 ### Overview
-This repository contains automation scripts for the Machine creation plus code deloyment over aws using Terraform.
-
-## Terraform Learning Codes
-
-### Overview
 This repository contains automation scripts for machine creation and code deployment over AWS using Terraform.
 
 ### Features
